@@ -7,4 +7,5 @@ Parrafo
 - + Elemento1
 - + * Elemento 1.1
 
-**Practica _examen_ markdown** 👍🥇[^1]
+**Practica _examen_ markdown** 👍
+🥇[^1].
