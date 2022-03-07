@@ -1,6 +1,9 @@
    ### Proyecto Markdown  ###
    > Tarea de Kubernetes
    >> Francisco Ruiz Suárez
-   -Lista
-    *Lista
-    +Lista
+Parrafo
+- Lista
+- + Elemento1
+- Lista2
+- Lista3
+- Lista4
