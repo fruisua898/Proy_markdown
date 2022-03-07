@@ -1,6 +1,6 @@
    ### Proyecto Markdown  ###
    > Tarea de Kubernetes
-   > >> Francisco Ruiz Suárez
-   > >> -Lista
-   > >> *Lista
-   > >> +Lista
+   >> Francisco Ruiz Suárez
+   -Lista
+    *Lista
+    +Lista
